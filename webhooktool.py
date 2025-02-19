@@ -4,7 +4,7 @@ import threading
 import time
 
 # Define the Webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1339459124521340989/N0jgnsykq1l9R_ZMziinB6gd9HDIFjV2B_pkxbl5ue_L3MvuVT0wHM8rwN-mAj3ZW78A'
+WEBHOOK_URL = 'your webhook here'
 
 spamming = False  # Control variable for spam feature
 
